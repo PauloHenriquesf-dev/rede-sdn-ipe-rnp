@@ -1,7 +1,5 @@
 # Avaliação de Desempenho de uma Rede SDN no Mininet
 
-📄 **Relatório:** disponível na pasta `docs` ou [ver aqui](docs/relatorio-trbalho-pratico-redes.pdf)
-
 ---
 
 ## Descrição
